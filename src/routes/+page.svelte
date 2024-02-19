@@ -29,10 +29,12 @@
 	  <div class="col-md-6 d-flex align-items-center">
 		<div>
 		  <!-- Place your text content here -->
-		  <h2>Airline On-Time Statistics & Delay Causes</h2>
+		  <h3>Airline On-Time Statistics & Delay Causes</h3>
 		  <p style="text-align: justify;">A zoomable sunburst is a data visualization technique that represents hierarchical data in a circular form, where each ring of the sunburst represents a level of the hierarchy. Users can interactively zoom in and out of the sunburst to explore deeper levels of the hierarchy and gain insights into the relationships between data elements.</p>
 
-          <p style="text-align: justify;">Utilizing a zoomable sunburst in d3, we present an interactive visualization showcasing airlines' online presence, delay causes, and statistical insights across various years and months. The visualization offers users the ability to view flight statistics presented as percentages, fostering comprehension and delivering comprehensive information. Additionally, it facilitates intuitive exploration of intricate data relationships, enhances user engagement, and promotes informed decision-making regarding airline performance.</p>
+          <p style="text-align: justify;">Employing a zoomable sunburst visualization implemented in D3, our graphical representation offers a comprehensive exploration of online airlines, delay causes, and statistical insights across various dimensions such as airline, year, and month. This interactive tool enables users to seamlessly zoom in and out, delving deeper into the intricate hierarchy of flight data, gaining a nuanced understanding of performance patterns over time. The percentage-based presentation of flight statistics enhances clarity, allowing users to discern on-time performance metrics effortlessly.</p>
+
+		  <p style="text-align: justify;">Derived from data provided by the Federal Aviation Administration, our visualization encapsulates high-level flight details, including critical insights into the on-time statistics of each airline. This integration of comprehensive data from a reputable source empowers users to make informed interpretations and comparisons, fostering a deeper comprehension of the aviation landscape. The interactive and user-friendly nature of our zoomable sunburst visualization not only enhances accessibility but also transforms complex aviation data into an engaging and insightful experience..</p>
 		
 
 		  <!-- Add more text content as needed -->
