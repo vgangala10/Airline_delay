@@ -30,8 +30,11 @@
 		<div>
 		  <!-- Place your text content here -->
 		  <h2>Airline On-Time Statistics & Delay Causes</h2>
-		  <p>A zoomable sunburst is a data visualization technique that represents hierarchical data in a circular form, where each ring of the sunburst represents a level of the hierarchy. Users can interactively zoom in and out of the sunburst to explore deeper levels of the hierarchy and gain insights into the relationships between data elements.</p>
-		  <p>Utilizing a zoomable sunburst in d3, we present an interactive visualization showcasing airlines' online presence, delay causes, and statistical insights across various years and months. The visualization offers users the ability to view flight statistics presented as percentages, fostering comprehension and delivering comprehensive information. Additionally, it facilitates intuitive exploration of intricate data relationships, enhances user engagement, and promotes informed decision-making regarding airline performance.</p>
+		  <p style="text-align: justify;">A zoomable sunburst is a data visualization technique that represents hierarchical data in a circular form, where each ring of the sunburst represents a level of the hierarchy. Users can interactively zoom in and out of the sunburst to explore deeper levels of the hierarchy and gain insights into the relationships between data elements.</p>
+
+          <p style="text-align: justify;">Utilizing a zoomable sunburst in d3, we present an interactive visualization showcasing airlines' online presence, delay causes, and statistical insights across various years and months. The visualization offers users the ability to view flight statistics presented as percentages, fostering comprehension and delivering comprehensive information. Additionally, it facilitates intuitive exploration of intricate data relationships, enhances user engagement, and promotes informed decision-making regarding airline performance.</p>
+		
+
 		  <!-- Add more text content as needed -->
 		</div>
 	  </div>
