@@ -53,8 +53,11 @@ path.filter(d => d.children)
     .style("cursor", "pointer")
     .on("click", clicked);
     const format = d3.format(",d");
-    path.append("title")
-        .text(d => `${d.data.name}: ${format(d.value)}`);
+    
+
+    path.filter(function(d) { return !d.children; }) 
+    .append("title")
+    .text(d => ⁠ `${d.data.name}: ${format(d.value)}%`⁠);
 
     const label = svg.append("g")
         .attr("pointer-events", "none")

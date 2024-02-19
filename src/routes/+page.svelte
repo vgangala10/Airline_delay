@@ -16,12 +16,12 @@
   </script>
   
   <svelte:head>
-	<title>Airline Delay Details</title>
+	<title>Airline On-Time Statistics & Delay Causes</title>
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   </svelte:head>
   
   <header class="navbar navbar-expand-lg navbar-dark custom-navbar">
-	<a class="navbar-brand" href="#">Airline Delay Details</a>
+	<a class="navbar-brand" href="#">Airline On-Time Statistics & Delay Causes</a>
   </header>
   
   <div class="container-fluid h-100">
@@ -29,8 +29,9 @@
 	  <div class="col-md-6 d-flex align-items-center">
 		<div>
 		  <!-- Place your text content here -->
-		  <h2>Your Text Title</h2>
-		  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam scelerisque aliquam odio et faucibus.</p>
+		  <h2>Airline On-Time Statistics & Delay Causes</h2>
+		  <p>A zoomable sunburst is a data visualization technique that represents hierarchical data in a circular form, where each ring of the sunburst represents a level of the hierarchy. Users can interactively zoom in and out of the sunburst to explore deeper levels of the hierarchy and gain insights into the relationships between data elements.</p>
+		  <p>Utilizing a zoomable sunburst in d3, we present an interactive visualization showcasing airlines' online presence, delay causes, and statistical insights across various years and months. The visualization offers users the ability to view flight statistics presented as percentages, fostering comprehension and delivering comprehensive information. Additionally, it facilitates intuitive exploration of intricate data relationships, enhances user engagement, and promotes informed decision-making regarding airline performance.</p>
 		  <!-- Add more text content as needed -->
 		</div>
 	  </div>
