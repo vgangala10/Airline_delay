@@ -57,7 +57,7 @@ path.filter(d => d.children)
 
     path.filter(function(d) { return !d.children; }) 
     .append("title")
-    .text(d => ⁠ `${d.data.name}: ${format(d.value)}%`⁠);
+    .text(d => ⁠ ${d.data.name}: ${format(d.value)}%);
 
     const label = svg.append("g")
         .attr("pointer-events", "none")
