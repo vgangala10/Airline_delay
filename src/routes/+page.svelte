@@ -21,7 +21,7 @@
   </svelte:head>
   
   <header class="navbar navbar-expand-lg navbar-dark custom-navbar">
-	<a class="navbar-brand" href="#">Airline On-Time Statistics & Delay Causes</a>
+	<a class="navbar-brand" href="#">Federal Aviation Details in USA</a>
   </header>
   
   <div class="container-fluid h-100">
