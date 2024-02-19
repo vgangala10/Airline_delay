@@ -16,7 +16,7 @@
   </script>
   
   <svelte:head>
-	<title>Airline On-Time Statistics & Delay Causes</title>
+	<title>Federal Aviation Details in USA</title>
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
   </svelte:head>
   
