@@ -1,6 +1,6 @@
 <script>
 	import { onMount } from 'svelte';
-	import Sunburst from '/vgangala10/airlines.github.io/src/routes/Sunburst.svelte';
+	import Sunburst from '/home/runner/work/airlines.github.io/src/routes/Sunburst.svelte';
 	import * as d3 from 'd3';
 
 	let data; // This will hold the fetched data
