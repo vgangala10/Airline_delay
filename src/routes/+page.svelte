@@ -36,9 +36,8 @@
 
 		  <p style="text-align: justify;">Derived from data provided by the Federal Aviation Administration, our visualization encapsulates high-level flight details, including critical insights into the on-time statistics of each airline. This integration of comprehensive data from a reputable source empowers users to make informed interpretations and comparisons, fostering a deeper comprehension of the aviation landscape. The interactive and user-friendly nature of our zoomable sunburst visualization not only enhances accessibility but also transforms complex aviation data into an engaging and insightful experience.</p>
 
-		  <p>In detail working and development process for this visualization can be found in this <a href = 'https://docs.google.com/document/d/1Oke-ybuwOl0tZ5QBZScqA0ckA-5NfMu95aPmCHx6vrY/edit'><b>documentation</b></a> </p>
+		  <p>In detail working and development process for this visualization can be found in this <a href = 'https://drive.google.com/file/d/1fM7KxzL3B8HSJW6xftHx7gA9zgj7t1lR/view?usp=sharing'><b>documentation</b></a> </p>
 		
-
 		  <!-- Add more text content as needed -->
 		</div>
 	  </div>
